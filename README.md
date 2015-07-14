@@ -18,5 +18,5 @@ Use what you learned about jQuery events to have the pig "fly" when you click on
 ## Step 3: Add a New Pig
 Use CSS styling to add a new pig to the right of your current pig.
 
-## Step 4: Follow the Leader
-Create an event where once the first pig flies away, the other one follows automatically
+## Stretch: Follow the Leader
+Create an event where once the first pig flies away, the other one follows automatically after a set period of time.
