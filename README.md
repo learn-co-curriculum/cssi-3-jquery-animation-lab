@@ -1,8 +1,4 @@
----
-tags: cssi, javascript, animations
-level: 1
-languages: javascript
----
+
 # Lab - When Pigs Fly
 There are some basic jQuery events in my_script.js, and a cute image of a pig in pig.html. Open this repo on Github and clone these files onto your local machine.
 
