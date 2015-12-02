@@ -19,3 +19,5 @@ Create an event where once the first pig flies away, the other one follows autom
 
 # Reference
 [W3 Schools jQuery Animation](http://www.w3schools.com/jquery/jquery_animate.asp)
+
+<a href='https://learn.co/lessons/cssi-3-jquery-animation-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
